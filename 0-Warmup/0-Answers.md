@@ -18,12 +18,12 @@ Please provide answers to these questions using markdown notation and place them
 
 3. Please provide a link to the repository you are using for this class.
 
-https://github.com/JeremyTorresGit/CS283
+    https://github.com/JeremyTorresGit/CS283
 
 4. Briefly describe what you want to get out of this class.
 
-In this class, I would like to learn more about the low-level interface complexities. I would like to understand these programs and resources to have fuller knowledge of operating systems. 
+    In this class, I would like to learn more about the low-level interface complexities. I would like to understand these programs and resources to have fuller knowledge of operating systems. 
 
 5. Briefly describe any concerns you might be having with being successful in this class (if any).
 
-N/A
+    N/A
