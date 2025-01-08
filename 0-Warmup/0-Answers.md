@@ -25,4 +25,5 @@ https://github.com/JeremyTorresGit/CS283
 In this class, I would like to learn more about the low-level interface complexities. I would like to understand these programs and resources to have fuller knowledge of operating systems. 
 
 5. Briefly describe any concerns you might be having with being successful in this class (if any).
+
 N/A
